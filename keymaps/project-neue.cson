@@ -1,0 +1,9 @@
+'atom-workspace':
+  'alt-p': 'project-neue:toggle'
+  'alt-tab': 'project-neue:last'
+
+'.project-neue input':
+  'enter': 'core:confirm'
+
+'.project-neue atom-text-editor[mini]':
+  'shift-enter': 'project-neue:alt-confirm'

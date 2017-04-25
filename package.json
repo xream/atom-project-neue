@@ -1,0 +1,18 @@
+{
+  "name": "project-neue",
+  "main": "./lib/project-neue",
+  "version": "0.0.0",
+  "description": "Atom project manager for 1.17.0+",
+  "keywords": [],
+  "repository": "https://github.com/xream/atom-project-neue",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.17.0 <2.0.0"
+  },
+  "activationCommands": {
+    "atom-workspace": ["project-neue:toggle", "project-neue:last"]
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.2.0"
+  }
+}
