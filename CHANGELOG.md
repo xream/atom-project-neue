@@ -1,4 +1,4 @@
-## 1.0.3
+## 1.1.0
 * remove from history
 
 ## 1.0.2
