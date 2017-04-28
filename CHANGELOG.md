@@ -1,3 +1,6 @@
+## 1.2.0
+* remove non-existent projects
+
 ## 1.1.0
 * remove from history
 

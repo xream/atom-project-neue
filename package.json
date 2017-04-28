@@ -12,11 +12,13 @@
   "activationCommands": {
     "atom-workspace": [
       "project-neue:toggle",
-      "project-neue:last"
+      "project-neue:last",
+      "project-neue:cleanup"
     ]
   },
   "dependencies": {
     "atom-space-pen-views": "^2.2.0",
-    "fs-plus": "^3.0.0"
+    "fs-plus": "^3.0.0",
+    "lodash": "^4.17.4"
   }
 }

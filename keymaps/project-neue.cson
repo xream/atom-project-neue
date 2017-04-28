@@ -1,6 +1,7 @@
 'atom-workspace':
   'alt-p': 'project-neue:toggle'
   'alt-tab': 'project-neue:last'
+  'cmd-k cmd-backspace': 'project-neue:cleanup'
 
 '.project-neue input':
   'enter': 'core:confirm'
