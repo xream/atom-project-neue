@@ -15,4 +15,5 @@ Default keymap:
 
 '.project-neue atom-text-editor[mini]':
   'shift-enter': 'project-neue:alt-confirm' # open the project in a new window
+  'shift-backspace': 'project-neue:remove'  # remove from history
 ```

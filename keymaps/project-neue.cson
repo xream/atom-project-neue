@@ -7,3 +7,4 @@
 
 '.project-neue atom-text-editor[mini]':
   'shift-enter': 'project-neue:alt-confirm'
+  'shift-backspace': 'project-neue:remove'
