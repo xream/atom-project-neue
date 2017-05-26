@@ -1,3 +1,6 @@
+## 1.3.0
+* hide current project in history
+
 ## 1.2.0
 * remove non-existent projects
 
