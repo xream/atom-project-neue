@@ -1,3 +1,6 @@
+## 1.4.0
+* reload pkgs
+
 ## 1.3.0
 * hide current project in history
 
