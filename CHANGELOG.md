@@ -1,3 +1,6 @@
+## 1.4.1
+* fix project filter
+
 ## 1.4.0
 * reload pkgs
 
