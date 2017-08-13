@@ -1,3 +1,6 @@
+## 1.4.2
+* fix project state
+
 ## 1.4.1
 * fix project filter
 
