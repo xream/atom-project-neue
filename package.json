@@ -1,7 +1,7 @@
 {
   "name": "project-neue",
   "main": "./lib/project-neue",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "description": "Atom project manager for 1.17.0+",
   "keywords": [],
   "repository": "https://github.com/xream/atom-project-neue",
