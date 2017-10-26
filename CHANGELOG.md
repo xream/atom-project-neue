@@ -1,3 +1,6 @@
+## 1.4.5
+* change default config
+
 ## 1.4.4
 * cleanup...
 
