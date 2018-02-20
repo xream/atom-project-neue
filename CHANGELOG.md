@@ -1,3 +1,6 @@
+## 1.4.7
+* remove default config of 'find-and-replace'
+
 ## 1.4.6
 * atom/find-and-replace/pull/968
 
